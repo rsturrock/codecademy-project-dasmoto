@@ -1,0 +1,49 @@
+* {
+    margin: 15px 8px;
+    padding: 0;
+}
+
+#header h1 {
+    font-family: Helvetica;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+    background-image: url("/Users/ryansturrock/Desktop/codecademy/projects/dasmoto/resources/images/pattern.jpeg");
+    margin: 50px 16px;
+}
+
+#content div h5 {
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+
+#brushes h5 {
+    background-color: mediumspringgreen;
+}
+
+#frames h5 {
+    background-color: lightcoral;
+}
+
+#paint h5 {
+    background-color: skyblue;
+}
+
+h6 {
+    font-size: 20px;
+}
+
+p {
+    color: black;
+    font-size: 20px;
+}
+
+a {
+    font-family: Helvetica;
+    font-weight: bold;
+    color: blue;
+    text-decoration: none;
+}
